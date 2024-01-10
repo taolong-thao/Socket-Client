@@ -3,6 +3,8 @@
 This project is a mail client application that utilizes the SMTP (Simple Mail Transfer Protocol) and POP3 (Post Office Protocol 3) protocols.
 ``Author: 18600355@student.hcmus.edu.vn``
 ***
+# Application Diagram
+![alt text](https://github.com/taolong-thao/Socket-Client/blob/master/diagram-application.png?raw=true)
 ## Prerequisites
 
 - JDK (Java Development Kit) 8 or later
