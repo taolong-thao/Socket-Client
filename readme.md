@@ -16,7 +16,13 @@ This project is a mail client application that utilizes the SMTP (Simple Mail Tr
 ``
 docker-compose up
 ``
-
 #### build maven for project
 ```bash
 mvn clean install
+```
+### Server run
+#### Prerequisites
+- jdk 1.8
+```bash
+java -jar test-mail-server-1.0.jar
+```
